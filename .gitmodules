@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/eli-bans/support_centerIII_backend.git
+[submodule "support_center_III_frontend"]
+	path = support_center_III_frontend
+	url = https://github.com/eli-bans/support_center_III_frontend.git
